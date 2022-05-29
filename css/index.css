@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,600&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 auto;
+    color: #F2F0EB;
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 1170px;
+}
+
+.header{
+    background-color: #5196A6;
+}
+
+.nav{
+    margin-bottom: 100px;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+
+li{
+    display: block;
+    padding-right: 90px;
+    margin-top: 50px;
+    font-weight: 400;
+    font-size: 19px;
+}
+
+.glal{
+    font-weight: 600;
+    border-bottom: 2px solid #F2594B;
+}
+
+.log{
+    padding-right: 5px;
+}
+
+.tex{
+    padding-right: 150px;
+}
+
+.logo{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+}
+
+li a{
+    color: #F2F0EB;
+}
+
+.mainphoto{
+    position: relative;
+    margin-left: 225px;
+    margin-top: -200px;
+    width: 1000px;
+    height: 500px;
+}
+
+.posm{
+    background-color: #F2594B;
+    color: #F2F0EB;
+    padding: 20px 19px;
+    border-radius: 70px;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.posm:hover{
+    box-shadow: 0px 5px 10px #F2594B;
+}
+
+.intro{
+    padding-left: 40px;
+}
+
+.intro h1{
+    margin-bottom: -10px;
+    font-size: 40px;
+}
+
+.intro p{
+    font-weight: 400;
+    margin-bottom: 37px;
+    font-weight: 20px;
+}
+
+.wep{
+    text-align: center;
+    color: #5196A6;
+    margin-top: 20px;
+}
+
+.ixtrm, .velo, .gastro, .comm{
+    display: flex;
+    width: 1170px;
+    height: 432px;
+    color: #5196A6;
+    margin-bottom: 30px;
+}
+
+.zero, .one, .two, .three{
+    width: 700px;
+}
+
+.htwo0, .htwo1, .htwo2, .htwo3{
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.p0{
+    margin-top: 85px;
+    margin-left: -285px;     
+}
+
+.p1{
+    margin-top: 85px;
+    margin-left: -233px;
+}
+
+.p2{
+    margin-top: 85px;
+    margin-left: -172px;
+}
+
+.p3{
+    margin-top: 85px;
+    margin-left: -289px;
+}
+
+.three{
+    margin-left: 34px;
+}
+
+.bottom{
+    background: url(imgtrav/Rectangle\ 5.svg);
+    height: 500px;
+    margin-top: 40px;
+}
+
+.notfinal{
+    padding-top: 70px;
+}
+
+.final{
+    margin-top: 280px;
+}
+
+.turi{
+    color: #5196A6;
+    align-items: center;
+}
+
+.turkiye{
+    margin-top: 50px;
+    font-size: 29px;
+}
+
+.bgr1{
+    position: absolute;
+    margin-left: -415px;
+    margin-top: 45px;
+}
+
+.bgr2{
+    position: absolute;
+    margin-left: 370px;
+    margin-top: -35px;
+}
+
+.bgr3{
+    position: absolute;
+    margin-left: -485px;
+    margin-top: -25px;
+}
